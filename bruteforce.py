@@ -4,7 +4,7 @@ import string
 
 
 #If you use a password that has more than 4 characters it takes a while
-allChars = "abcdefghijklmnopqrstuvwxyz0123456789"
+allChars = "abcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()"
 
 # allChars = string.printable
 allChars_list = list(allChars)
